@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Recipe">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAAAAAEAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Recipes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CulinaryBot">
+    <Position X="9.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAEAQEACBkgAgAAAAAAAAAgAQEAAAAAAAA=</HashCode>
+      <FileName>CulinaryBot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="1.404" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
